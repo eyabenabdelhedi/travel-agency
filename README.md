@@ -26,4 +26,4 @@ gcc main.c -o travel_agency
 Or open `travel_agency.cbp` in Code::Blocks.
 
 ## Context
-First-year Business Computing project (algorithmics / C), ISG Tunis.
+University project in C, Business Computing (Informatique de Gestion), ISG Tunis.
